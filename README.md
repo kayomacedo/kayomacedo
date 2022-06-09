@@ -27,9 +27,11 @@
                                                                                                                                                 
                                                                                                                                               
    <!-- Sistemas -->
+                                                                                                                                                   
   
    <img align="right" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="right" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
+   <img align="right" alt="Android" height="30" width="40" src="https://github.com/kayomacedo/kayomacedo/blob/main/.github/workflows/icone/microsoft-windows-22-logo-svgrepo-com.svg">
   
   
        
