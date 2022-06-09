@@ -1,7 +1,7 @@
-## Hi, my name is Kayo Macedo. welcome to my repository 
+## Hi, my name is Kayo Macedo. welcome to my repository.
 
 <div align="center">
-  <a href="https://github.com/kayomacedo
+  <a href="https://github.com/kayomacedo">
   <img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api?username=kayomacedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayomacedo&layout=compact&langs_count=7&theme=github_dark">
 </div>
@@ -21,6 +21,10 @@
  
   <img align="center" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
                                                                                                                                                 
                                                                                                                                                 
                                                                                                                                                
@@ -31,7 +35,7 @@
   
    <img align="right" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="right" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
-   <img align="right" alt="Android" height="30" width="40" src="https://github.com/kayomacedo/kayomacedo/blob/main/.github/workflows/icone/microsoft-windows-22-logo-svgrepo-com.svg">
+   <img align="right" alt="Windows" height="30" width="40" src="https://github.com/kayomacedo/kayomacedo/blob/main/.github/workflows/icone/microsoft-windows-22-logo-svgrepo-com.svg">
   
   
        
