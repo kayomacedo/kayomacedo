@@ -1,12 +1,22 @@
 ## Hi, my name is Kayo Macedo. welcome to my repository.
 
-<div align="center">
-  <a href="https://github.com/kayomacedo">
-  <img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api?username=kayomacedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayomacedo&layout=compact&langs_count=7&theme=github_dark">
+<div align="center"/>
+<a href="https://github.com/kayomacedo"> </a>
+<img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api?username=kayomacedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayomacedo&layout=compact&langs_count=7&theme=github_dark">
 </div>
-<div style="display: inline_block"><br>
-                                  
+  
+ 
+ <h3 >( Language / Frameworks ) = - = - = - = - = - = - = -  = - ( Tools ) = - = - = - = - = - = - = -  = - = -  = - = ( Systems ) </h1>
+
+
+ 
+
+ 
+  
+  
+  
+ 
   <!-- Linguagens e Frameworks -->
   
   <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -42,8 +52,10 @@
   
   
 </div>
-
-  ##
+<p> </p>
+============================================================================================================
+<p> </p>
+ 
  
 <div> 
 
@@ -54,3 +66,6 @@
   ![Snake animation](https://github.com/kayomacedo/kayomacedo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+
