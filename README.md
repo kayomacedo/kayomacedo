@@ -51,6 +51,6 @@
  
   <a href="https://www.linkedin.com/in/kayo-macedo-2a36b7211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/kayomacedo/kayomacedo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielfloriano7/danielfloriano7/blob/output/github-contribution-grid-snake.svg)
  
 </div>
