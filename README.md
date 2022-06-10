@@ -20,6 +20,9 @@
   <img  alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img  alt="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <!-- Minion-->
+ 
+ <img align = "right" height="90" width="90" src="https://user-images.githubusercontent.com/57056101/172977173-14bb5ade-914e-428e-8788-3420283d2f78.gif" target="_blank">
   </div>
   <!-- Tools-->
   <div>
@@ -28,6 +31,7 @@
   <img align="center" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  
   
   </div>
   <!-- System-->
@@ -41,9 +45,6 @@
   
   
   
-  <!-- Minion-->
- 
- <img align = "center" height="90" width="90" src="https://user-images.githubusercontent.com/57056101/172977173-14bb5ade-914e-428e-8788-3420283d2f78.gif" target="_blank">
 
   
   
@@ -66,6 +67,7 @@
 
  </div>
  
+
 
 
  
