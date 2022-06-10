@@ -59,18 +59,16 @@
  
   
  <a href="mailto:kayo-macedo@outlook.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  
-  
  
- 
-  
- 
-
-   
 
 
  </div>
+ 
+ 
+ <a href = "https://www.youtube.com/watch?v=zREufNs-W_0&ab_channel=MikaelJrgamesmikinha" > <img align = "right" height="90" width="90" src="https://user-images.githubusercontent.com/57056101/172977173-14bb5ade-914e-428e-8788-3420283d2f78.gif" target="_blank"></a>
+
+ 
+ 
 
  
   ![Snake animation](https://github.com/kayomacedo/kayomacedo/blob/output/github-contribution-grid-snake.svg)
