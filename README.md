@@ -7,10 +7,9 @@
 </div>
   
  
- 
+ <BGSOUND SRC="https://github.com/kayomacedo/kayomacedo/blob/main/.github/workflows/musica/fundoHP.wma" loop="-1">
 
- <audio src="https://www.youtube.com/watch?v=dN31KstgzCs&ab_channel=DouglasVRogers" controls ></audio>
-  
+ 
   
   
  
