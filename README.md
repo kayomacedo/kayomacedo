@@ -67,7 +67,7 @@
 <!-- Minion-->
  
  <a href = "https://www.youtube.com/watch?v=zREufNs-W_0&ab_channel=MikaelJrgamesmikinha" > <img align = "right" height="90" width="90" src="https://user-images.githubusercontent.com/57056101/172977173-14bb5ade-914e-428e-8788-3420283d2f78.gif" target="_blank"></a>
- <a href="https://www.youtube.com/watch?v=zREufNs-W_0&ab_channel=MikaelJrgamesmikinha"> <img src="https://user-images.githubusercontent.com/57056101/172977173-14bb5ade-914e-428e-8788-3420283d2f78.gif" target="_blank"></a>
+
 
  
  
