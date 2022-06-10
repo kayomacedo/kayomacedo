@@ -40,8 +40,6 @@
   <img alt="Windows" height="30" width="40" src="https://github.com/kayomacedo/kayomacedo/blob/main/.github/workflows/icone/microsoft-windows-22-logo-svgrepo-com.svg">
   </div>
   
- 
- 
   
   
   
@@ -49,22 +47,19 @@
   
   <div align="center">
 <a href="https://www.instagram.com/kayomacedo/"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:kayo-macedo@outlook.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/kayo-macedo-2a36b7211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
   
   
 
-
-
-
-
-
  
  <div align= "center">
   
  
-  <a href="https://www.linkedin.com/in/kayo-macedo-2a36b7211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+ <a href="mailto:kayo-macedo@outlook.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   
   
  
